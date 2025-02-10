@@ -26,8 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Pranav Mambayil (also goes by Pranav M ) , a multidiscplinary researcher aiming to understand human  socities and the world it transforms using quantitative methods. This involves Data Science as well as Mathematical mdelling with lessons from Statistical Physics and Complex Systems. I am going to be joining Prrof.Bernd Resch's lab at IT: U Linz,Austria which works on Geosocial AI. I completed my Masters (and Bachelors) from the bS-MS program in IISER Pune, India in 2023. I got the opportunity to work on research projects in Non-Linear Dynamics (Link1) and Network Science (Link2,Link3) with Amit Apte and Prof. MS Santhanam there.
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The #code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
